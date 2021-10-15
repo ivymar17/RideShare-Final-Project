@@ -7,7 +7,7 @@ The scope of the project is to develop a limited rideshare Dapp:
     the "Rider":
 
         1. Register as user of the platform to be able to request rides, the "Rider" => in the Blockchain
-        2. Request "Rides" introducing the destination address. The pick-up location shall be collected automatically form a Geolocation service,       and time as current time? => Front-end interface => to the Blockchain
+        2. Request "Rides" introducing the destination address. The pick-up location shall be collected automatically form a Geolocation service, and time as current time? => Front-end interface => to the Blockchain
         
     
     the "Driver":
